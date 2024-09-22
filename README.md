@@ -5,4 +5,5 @@
 + Update
 + Delete
 
-Nesse projeto não foi usado nenhum BD,todos os dados estão sendo armazenados em tempo de execução.
+
+Projeto simula um sistema de cadastro de produtos e nele é possível fazer todas as operações de CRUD na lista que contém os produtos. Os dados são todos gravados estáticamente.
